@@ -1,0 +1,6 @@
+D001,Phuoc,44 street D,0944444,true,normal
+D002,Smith,132 street B,456789002,true,fast
+D003,Hellen,32 street C,08123456789,false,normal
+D004,Adelle,43 street D,87123456789,false,normal
+D006,Ballack,2566A,023568974,false,normal
+D022,Sasuke,12 ABCD,055566623,true,fast

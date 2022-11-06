@@ -1,0 +1,7 @@
+D001,Adam,432 street A,123456789,true
+D002,Smith,132 street B,456789002,true
+D003,Hellen,32 street C,08123456789,false
+D004,Adelle,43 street D,87123456789,false
+D010,AMAI,A 78 John,098562314,true
+D255,BAKADA,a 222,023658974,true
+D008,SUPER GREEN,2 JohnWick,012345678,true
